@@ -37,13 +37,7 @@ Tensorflow-gpu 1.7+ and its dependencies  ( https://www.tensorflow.org/install/g
 
 
 # How to run : 
-Extract all files and keep that folders name as it is.
-
-
-Gentle reminder:  4.TFslim_fine_tune.zip should be Extracted and kept as a folder with its own contents 
-
-
-guidline.pdf  is a very early basic guide (Version 1 is incomplete, But ship it anyway)
+Follow steps for training and evalution in commands.sh
 
 
 # Support By : 
